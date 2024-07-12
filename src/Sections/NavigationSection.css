@@ -1,0 +1,55 @@
+.navigationSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.menuFlexRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0 10px;
+  margin: 20px 5.56% 20px auto;
+  width: 878px;
+}
+
+.bookingMenuItem {
+  min-width: 0;
+  font: 400 16px/1.5 "Open Sans", Helvetica, Arial, serif;
+  color: rgb(34, 34, 34);
+}
+
+.facilitiesMenuItem {
+  min-width: 0;
+  font: 400 16px/1.5 "Open Sans", Helvetica, Arial, serif;
+  color: rgb(34, 34, 34);
+}
+
+.aboutUsMenuItem {
+  min-width: 0;
+  font: 400 16px/1.5 "Open Sans", Helvetica, Arial, serif;
+  color: rgb(34, 34, 34);
+}
+
+.locationMenuItem {
+  min-width: 0;
+  font: 400 16px/1.5 "Open Sans", Helvetica, Arial, serif;
+  color: rgb(34, 34, 34);
+}
+
+.contactMenuItem {
+  min-width: 0;
+  font: 400 16px/1.5 "Open Sans", Helvetica, Arial, serif;
+  color: rgb(34, 34, 34);
+}
+
+.loginButton {
+  display: flex;
+  justify-content: center;
+  min-width: 76px;
+  font: 400 14px/1.42 "Open Sans", Helvetica, Arial, serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background-color: rgb(36, 171, 112);
+  border-radius: 20px;
+  padding: 10px 20px;
+}
